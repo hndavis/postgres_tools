@@ -1,0 +1,1 @@
+\copy periodtype_lookup from /home/204618-PowerUser/postgres/data/periodtype_lookup.0.dat with delimiter E'\t' NULL ''
